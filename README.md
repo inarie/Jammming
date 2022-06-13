@@ -19,7 +19,7 @@ A web application, built with React, that allows users to search the Spotify lib
 
 ## How To Use 🔧
 
-From your command line, first clone Ravenous:
+From your command line, first clone Jammming:
 
 ```bash
 # Clone this repository
